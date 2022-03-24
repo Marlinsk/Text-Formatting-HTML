@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  margin: 8px;
+}
+
+#content {
+  padding: 8px 620px 8px 620px;
+}
+
+#title-1 {
+  padding: 8px 0px 4px 0px;
+}
+
+#text-1 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Merriweather", serif;
+}
+
+#title-2 {
+  padding: 0px 0px 8px 0px;
+}
+
+#text-2 {
+  font-size: 26px;
+  font-weight: 700;
+  font-family: "Merriweather", serif;
+}
+
+#title-3 {
+  padding: 0;
+}
+
+#text-3 {
+  padding: 6px 0px 6px 0px;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: "Merriweather", serif;
+}
+
+#section-1 {
+  padding: 0px 0px 10px 0px;
+}
+
+#topics {
+  padding: 8px 0px 8px 0px;
+}
+
+#title-4 {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: "Merriweather", serif;
+  padding: 0px 0px 2px 0px;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Merriweather", serif;
+  padding: 6px 0px 4px 0px;
+}
+
+#section-2 {
+  padding: 0px 0px 10px 0px;
+}
+
+#author-text {
+  font-size: 10px;
+  font-weight: 900;
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
