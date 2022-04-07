@@ -14,58 +14,53 @@
   padding: 18px;
 }
 
-#title-1 {
+#title-chapter {
   width: 0 auto;
   height: 0 auto;
   margin: 8px 0px 4px 0px;
   padding: 0;
 }
 
-#text-1 {
+#font-style-1 {
   font-size: 16px;
   font-weight: 400;
 }
 
-#title-2 {
+#theme {
   margin: 2px 0px 4px 0px;
   padding: 0;
 }
 
-#text-2 {
+#font-style-2 {
   font-size: 26px;
   font-weight: 700;
 }
 
-#title-3 {
+#subtitles {
   margin: 6px 0px 10px 0px;
   padding: 0;
 }
 
-#text-3 {
+#font-style-3 {
   margin: 4px 0px 6px 0px;
   padding: 2px 0px 2px 0px;
   font-size: 14px;
   font-weight: 300;
 }
 
-#section-1 {
-  margin: 6px 0px 10px 0px;
-  padding: 0;
-}
-
-#topics {
+#topic-box {
   margin: 0px 0px 12px 0px;
   padding: 1px 0px 4px 0px;
 }
 
-#title-4 {
+#topic-title {
   font-size: 22px;
   font-weight: 700;
   margin: 0px 0px 4px 0px;
   padding: 0;
 }
 
-p {
+#text {
   text-align: justify;
   text-justify: inter-word;
   font-weight: 400;
@@ -74,15 +69,12 @@ p {
   margin: 6px 0px 4px 0px;
 }
 
-#section-2 {
-  margin: 8px 0px 8px 0px;
-  padding: 4px 0px 4px 0px;
-}
-
 #author-text {
   font-size: 11px;
   font-weight: 900;
   text-align: center;
+  margin: 8px 0px 8px 0px;
+  padding: 4px 0px 4px 0px;
 }
 
 ::-webkit-scrollbar {
