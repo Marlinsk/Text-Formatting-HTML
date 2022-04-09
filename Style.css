@@ -8,15 +8,13 @@
 }
 
 #container {
-  width: 0 auto;
-  height: 0 auto;
-  margin: 0px 625px 0px 625px;
-  padding: 18px;
+  width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px;
 }
 
 #title-chapter {
-  width: 0 auto;
-  height: 0 auto;
   margin: 8px 0px 4px 0px;
   padding: 0;
 }
@@ -83,4 +81,13 @@
 
 ::-webkit-scrollbar-thumb {
   background: #212529;
+}
+
+/* Responsividade */
+
+@media (max-width: 650px) {
+  #container {
+    width: auto;
+    margin: 0;
+  }
 }
